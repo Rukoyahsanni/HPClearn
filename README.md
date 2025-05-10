@@ -9,10 +9,10 @@
 ## 📅 Month 1: Foundations & Linux Fluency
 
 ### Week 1–2
-- [ ] Watch “Intro to High Performance Computing” (Coursera or YouTube)
-- [ ] Understand key HPC terms: clusters, nodes, CPUs, interconnects
-- [ ] Install Ubuntu (VM or WSL) and set up terminal environment
-- [ ] Practice Linux commands: `ls`, `cd`, `grep`, `chmod`, `top`, `kill`, etc.
+- [✅ ] Watch “Intro to High Performance Computing” (Coursera or YouTube)
+- [✅ ] Understand key HPC terms: clusters, nodes, CPUs, interconnects
+- [✅ ] Install Ubuntu (VM or WSL) and set up terminal environment
+- [✅ ] Practice Linux commands: `ls`, `cd`, `grep`, `chmod`, `top`, `kill`, etc.
 - [ ] Write simple Bash scripts with loops, variables, and functions
 
 ### Week 3–4
