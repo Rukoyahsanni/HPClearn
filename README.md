@@ -13,10 +13,10 @@
 - [✅ ] Understand key HPC terms: clusters, nodes, CPUs, interconnects
 - [✅ ] Install Ubuntu (VM or WSL) and set up terminal environment
 - [✅ ] Practice Linux commands: `ls`, `cd`, `grep`, `chmod`, `top`, `kill`, etc.
-- [ ] Write simple Bash scripts with loops, variables, and functions
+- [✅ ] Write simple Bash scripts with loops, variables, and functions
 
 ### Week 3–4
-- [ ] Explore Linux file system (`/proc/`, `/etc/`, `/home/`)
+- [✅ ] Explore Linux file system (`/proc/`, `/etc/`, `/home/`)
 - [ ] Automate jobs using `cron` or `at`
 - [ ] Learn resource management basics: CPU, memory, I/O
 - [ ] Read about HPC in geoscience (seismic imaging, CCUS)
